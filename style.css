@@ -1,0 +1,40 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    width: 100%;
+}
+
+nav {
+    float: right;
+    margin: 8px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.google-image {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding-top: 112px;
+    padding-bottom: 20px;
+    width: 400px;
+    
+}
+input {
+    width: 510px;
+    height: 42px;
+    margin-left: 20%;
+}
+.google-area {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    display: block;
+}
